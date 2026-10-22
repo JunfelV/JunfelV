@@ -1,6 +1,13 @@
-### Hi there 👋
-I'm Junfel.
+# Hi, I'm Junfel 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunfelV&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+Welcome to my GitHub profile!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunfelV&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+I enjoy learning, building projects, and improving my coding skills.
+
+### 📊 GitHub Stats
+
+![Junfel's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunfelV&theme=radical)
+
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JunfelV&theme=radical&layout=compact)
